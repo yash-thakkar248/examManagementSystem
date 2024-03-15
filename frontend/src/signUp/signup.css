@@ -1,0 +1,66 @@
+.form-display {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+  }
+  
+  .form-display h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #1da1f2;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .form-control:hover {
+    border: 2px solid #0f82bf;
+  }
+  
+  .btn-control {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #1da1f2;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-control:hover {
+    background-color: #0f82bf;
+  }
+  
+  .btn-dropdown-control {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .option-control {
+    font-weight: normal;
+    display: block;
+    min-height: 3em;
+    padding: 0px 2px 1px;
+    margin: 5px;
+    border-bottom: 0.5 solid #ccc;
+    white-space: nowrap;
+}
